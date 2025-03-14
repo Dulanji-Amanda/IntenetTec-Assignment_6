@@ -54,14 +54,14 @@ button.operator {
     background-color: #d4af91;
 }
 button.equals {
-    background-color: #6ac17b;
+    background-color: #91ca9c;
 }
 button.clear {
     background-color: #f4a261;
 }
 
 button:hover {
-    background-color: #b85fc9;
+    background-color: #e2a8ed;
 }
 
 .clear {
@@ -69,9 +69,9 @@ button:hover {
 }
 
 .equals:hover{
-    background-color: #c9c45f;
+    background-color: #e0dda2;
 }
 
 .clear:hover{
-    background-color: #f4a261;
+    background-color: #f49c54;
 }
